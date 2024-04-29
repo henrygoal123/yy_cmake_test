@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -g -shared -Wl,-soname,libprocess.so -o ../../../bin/libprocess.so CMakeFiles/process.dir/process.cpp.o  -Wl,-rpath,/home/yan/ctest0429/cmake_test/yy_cmake_test/bin ../../../bin/libpnc_map.so 

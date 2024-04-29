@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -g -shared -Wl,-soname,libpnc_map.so -o ../../../bin/libpnc_map.so CMakeFiles/pnc_map.dir/pnc_map.cpp.o 

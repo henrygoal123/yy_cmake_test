@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/planning_main.dir/planning_main.cpp.o -o planning_main  -Wl,-rpath,/home/yan/ctest0429/cmake_test/yy_cmake_test/bin ../../bin/libprocess.so ../../bin/libpnc_map.so 
